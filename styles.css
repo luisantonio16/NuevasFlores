@@ -10,11 +10,12 @@
   --dark-color: #010113;
 }
 .nombre{
-  color: rgba(214, 201, 9, 0.781);
+  color: rgba(214, 200, 9, 0.829);
   font-size: 45px;
   position: absolute;
-  top: 20px;
+  top: 30px;
   z-index: 30;
+  text-align: center;
 }
 body {
   display: flex;
