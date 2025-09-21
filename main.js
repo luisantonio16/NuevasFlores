@@ -4,7 +4,7 @@ onload = () => {
 
 
   document.addEventListener('DOMContentLoaded', function() {
-    const titles = ['Para una mujer linda y complicada','pero cautivadora y peculiar a la vez ' ,'espero que me des la oportunidad de cocnocerte mas', 'y ver que tan dificil y encantadora puedes ser.'];
+    const titles = ['Para una mujer linda y complicada','pero cautivadora y especial a la vez' ,'no se mucho de relaciones por eso a veces mi comportamientos', 'solo quiero tener algo contigo de verdad, sin importa tu pasado o el mio.'];
     let index = 0;
   
     function changeTitle() {
